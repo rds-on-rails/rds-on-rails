@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rds-on-rails
 - 👀 I’m interested in Web3 and blockchain technology
-- 🌱 I’m currently learning solidity
+- 🌱 I’m currently working as solidity developer
 - 💞️ I’m looking to collaborate on web3 projects
 - 📫 How to reach me on twitter- https://twitter.com/ramduttshukla
 
